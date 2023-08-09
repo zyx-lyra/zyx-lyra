@@ -3,7 +3,7 @@ Hi! This is Zyx.
 -  I am a PhD student at Tokyo Institute of Technology (Tokyo Tech).
 -  I research in Theoretical Hadron Physics, especially in compositeness.
 -  I also minor in Data Science and AI.
--  I’m interested in the statistical nature of AI and what it implies on application, robustness and fairness of AI.
+-  I’m interested in the statistical nature of AI, and what it implies on the application, robustness, and fairness of AI.
 -  I’m currently learning Adversarial Robustness of AI.
 
 My Tech Stack
